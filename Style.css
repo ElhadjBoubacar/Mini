@@ -1,0 +1,38 @@
+form{
+    background-color:blueviolet;
+    margin:  10px;
+    width: 90%;
+    flex-direction: column;
+    display: flex;
+    border-radius: 8px;
+    flex-wrap: wrap;
+}
+input{
+    height: 40px;
+    padding: 3px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    font-size: large;
+    background-color: darkgreen;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+.tab,th,td{
+    border: solid 1px black;
+    border-collapse:collapse;
+    width: 30%;
+    height: 30px;
+    text-align: center;
+    margin: 10px;
+}
+.bob{
+    background-color: lightgreen;
+}
