@@ -36,3 +36,23 @@ button{
 .bob{
     background-color: lightgreen;
 }
+img{
+    position: absolute;
+    width: 50%;
+    height: 80%;
+    justify-content: center;
+    margin-left: 188px;
+}
+h3:hover{
+    color:yellow;
+    transform: translateX(10px);
+    transition-duration: 3s;
+    width: 17%;
+}
+h3{
+    border: solid 5px violet;
+    width: 15%;
+    border-radius: 0px 8px 8px 0px;
+    margin: 8px;
+    padding: 5px;
+}
